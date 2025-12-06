@@ -1,86 +1,80 @@
 ---
 layout: default
 title: Privacy Policy
-date: 2025-11-12
----
+description:
 
-# Privacy Policy
+Privacy Policy
 
-_Last updated: November 12, 2025_
+Last updated: November 12, 2025
 
-This Privacy Policy describes our policies and procedures regarding the collection, use, and disclosure of your information when you use **Giggy** (the “Application” or “Service”). It also explains your privacy rights and how the law protects you.
+This Privacy Policy describes our policies and procedures regarding the collection, use, and disclosure of your information when you use Giggy (the “Application” or “Service”). It also explains your privacy rights and how the law protects you.
 
 By using Giggy, you agree to the collection and use of information in accordance with this Privacy Policy.
+Interpretation and Definitions
 
----
-
-## Interpretation and Definitions
-
-**Company** refers to Giggy, operated by Nick Pappas (“We”, “Us”, or “Our”).
-**Application** refers to Giggy, the software program provided by the Company.
-**Device** means any device that can access the Service, such as a smartphone or tablet.
-**Personal Data** means any information that can identify an individual.
-**Usage Data** means data collected automatically when using the Application.
-**You** means the individual accessing or using the Application.
-
----
-
-## Information We Collect
-
-### Personal Data
+Company refers to Giggy, operated by Nick Pappas (“We”, “Us”, or “Our”).
+ Application refers to Giggy, the software program provided by the Company.
+ Device means any device that can access the Service, such as a smartphone or tablet.
+ Personal Data means any information that can identify an individual.
+ Usage Data means data collected automatically when using the Application.
+ You means the individual accessing or using the Application.
+Information We Collect
+Personal Data
 
 We may collect the following information when you use Giggy:
 
-- Email address
-- First and last name (if provided)
-- Usage Data
+    Email address
 
-### Usage Data
+    First and last name (if provided)
+
+    Usage Data
+
+Usage Data
 
 Usage Data is collected automatically and may include:
 
-- Device IP address
-- Device type, model, and operating system
-- App version, interaction timestamps, and feature usage metrics
+    Device IP address
 
-### Location Data
+    Device type, model, and operating system
+
+    App version, interaction timestamps, and feature usage metrics
+
+Location Data
 
 With your consent, Giggy may collect precise or approximate location data to display and store gig locations on maps. You can enable or disable this at any time via device settings.
-
-### Media Access
+Media Access
 
 If you choose to upload images (e.g., venue photos), Giggy may request access to your camera or photo library. You can revoke this permission at any time.
-
----
-
-## How We Use Your Data
+How We Use Your Data
 
 We use the collected data for the following purposes:
 
-- To provide and maintain the Application
-- To authenticate users via Sign in with Apple
-- To display your personal gig data (e.g., venue, date, income)
-- To improve the user experience and app performance
-- To communicate with you regarding updates or issues
-- To comply with legal obligations
+    To provide and maintain the Application
 
-We do **not** sell or share your personal data with advertisers or third parties for marketing.
+    To authenticate users via Sign in with Apple
 
----
+    To display your personal gig data (e.g., venue, date, income)
 
-## Data Storage and Retention
+    To improve the user experience and app performance
 
-Your data is securely stored using Supabase, our backend service provider.
-We retain personal data only as long as necessary to:
+    To communicate with you regarding updates or issues
 
-- Provide the Service
-- Comply with legal obligations
-- Resolve disputes and enforce agreements
+    To comply with legal obligations
+
+We do not sell or share your personal data with advertisers or third parties for marketing.
+Data Storage and Retention
+
+Your data is securely stored using Supabase, our backend service provider. We retain personal data only as long as necessary to:
+
+    Provide the Service
+
+    Comply with legal obligations
+
+    Resolve disputes and enforce agreements
 
 You may request deletion of your data at any time (see below).
+Data Deletion and Account Removal
 
----
+You can delete your account and all associated data by contacting us at njpappas97@gmail.com
 
-## Data Deletion and Account Removal
-
-You can delete your account and all associated data by contacting us at **njpappas97@gmail.com**.
+date: 2025-11-12
